@@ -1,0 +1,5 @@
+{
+  "name": "量化基金 AI 架构师",
+  "description": "专业的量化金融工作台，生成 Java/Python 交易模型，可视化回测模拟，并利用 Gemini AI 分析基金策略。",
+  "requestFramePermissions": []
+}
